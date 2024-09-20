@@ -1,0 +1,3 @@
+"D:\E_disk\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Exp06--ANSI_X9.17.dir/objects.a
+D:\Compile_Environments\msys64\mingw64\bin\ar.exe qc CMakeFiles\Exp06--ANSI_X9.17.dir/objects.a @CMakeFiles\Exp06--ANSI_X9.17.dir\objects1.rsp
+D:\Compile_Environments\msys64\mingw64\bin\cc.exe -g -Wl,--stack,100000000 -Wl,--whole-archive CMakeFiles\Exp06--ANSI_X9.17.dir/objects.a -Wl,--no-whole-archive -o Exp06--ANSI_X9.17.exe -Wl,--out-implib,libExp06--ANSI_X9.17.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exp06--ANSI_X9.17.dir\linklibs.rsp

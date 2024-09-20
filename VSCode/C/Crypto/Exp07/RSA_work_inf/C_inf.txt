@@ -1,0 +1,2 @@
+You have received the ciphertext:
+1

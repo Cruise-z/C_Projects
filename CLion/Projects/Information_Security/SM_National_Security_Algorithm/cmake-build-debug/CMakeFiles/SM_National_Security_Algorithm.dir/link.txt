@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SM_National_Security_Algorithm.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\SM_National_Security_Algorithm.dir/objects.a @CMakeFiles\SM_National_Security_Algorithm.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\SM_National_Security_Algorithm.dir/objects.a -Wl,--no-whole-archive -o SM_National_Security_Algorithm.exe -Wl,--out-implib,libSM_National_Security_Algorithm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SM_National_Security_Algorithm.dir\linklibs.rsp

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/C_inf.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/Recip_inf.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/Sender_inf.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+  </component>
+</project>

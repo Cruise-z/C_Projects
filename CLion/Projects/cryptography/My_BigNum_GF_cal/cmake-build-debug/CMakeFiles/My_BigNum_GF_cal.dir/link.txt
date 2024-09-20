@@ -1,0 +1,3 @@
+"E:\E_drive\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\My_BigNum_GF_cal.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\My_BigNum_GF_cal.dir/objects.a @CMakeFiles\My_BigNum_GF_cal.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -shared -o libMy_BigNum_GF_cal.dll -Wl,--out-implib,libMy_BigNum_GF_cal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\My_BigNum_GF_cal.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\My_BigNum_GF_cal.dir\linklibs.rsp

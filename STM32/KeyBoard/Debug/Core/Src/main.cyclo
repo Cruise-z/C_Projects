@@ -1,0 +1,14 @@
+../Core/Src/main.c:333:6:SystemClock_Config	4
+../Core/Src/main.c:372:6:Get_Descriptor	2
+../Core/Src/main.c:380:6:SimulateKeyPress	2
+../Core/Src/main.c:392:6:SimulateKeyRelease	1
+../Core/Src/main.c:399:6:SimulateKeyStroke	1
+../Core/Src/main.c:406:6:SimulateKeyStrokes	4
+../Core/Src/main.c:422:6:PrintRecvBuf	2
+../Core/Src/main.c:432:6:InitKeyboardStatus	2
+../Core/Src/main.c:441:6:Convert2CapsMap	2
+../Core/Src/main.c:448:6:InterruptTrap	2
+../Core/Src/main.c:272:5:main	2
+../Core/Src/main.c:459:6:HAL_TIM_PeriodElapsedCallback	5
+../Core/Src/main.c:477:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:491:6:Error_Handler	1

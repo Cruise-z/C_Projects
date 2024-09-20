@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/clion/Project List/Algorithm_Design/Fib/main.c
+stdio.h
+-
+gmp.h
+E:/clion/Project List/Algorithm_Design/Fib/gmp.h
+

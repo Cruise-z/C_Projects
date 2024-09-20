@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/E_drive/clion/Project List/Information_Security/RSA/main.c
+stdio.h
+-
+gmp.h
+-
+time.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+assert.h
+-
+

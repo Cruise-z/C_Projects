@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Fib.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Fib.dir/objects.a @CMakeFiles\Fib.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--stack,100000000 -Wl,--whole-archive CMakeFiles\Fib.dir/objects.a -Wl,--no-whole-archive -o Fib.exe -Wl,--out-implib,libFib.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Fib.dir\linklibs.rsp

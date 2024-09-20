@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/E_drive/clion/Project List/cryptography/test/main.c
+stdio.h
+-
+gmp.h
+-
+stdbool.h
+-
+stdint.h
+-
+

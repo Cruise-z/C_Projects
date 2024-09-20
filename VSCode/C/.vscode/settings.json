@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "gmp.h": "c",
+        "my_bignum_gf_cal.h": "c",
+        "hexdump.h": "c",
+        "hash.h": "c",
+        "lib_convert.h": "c",
+        "ecc_enc_dec.h": "c",
+        "rsa_enc_dec.h": "c",
+        "aes_enc_dec.h": "c",
+        "stream_cipher.h": "c",
+        "sha.h": "c",
+        "wrap.h": "c",
+        "sm4_enc_dec.h": "c",
+        "string.h": "c",
+        "hmac.h": "c",
+        "classical_cipher.h": "c",
+        "des_enc_dec.h": "c",
+        "my_matrix_cal.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c"
+    }
+}

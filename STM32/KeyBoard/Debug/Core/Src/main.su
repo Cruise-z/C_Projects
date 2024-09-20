@@ -1,0 +1,14 @@
+../Core/Src/main.c:333:6:SystemClock_Config	104	static,ignoring_inline_asm
+../Core/Src/main.c:372:6:Get_Descriptor	16	static
+../Core/Src/main.c:380:6:SimulateKeyPress	8	static
+../Core/Src/main.c:392:6:SimulateKeyRelease	16	static
+../Core/Src/main.c:399:6:SimulateKeyStroke	8	static
+../Core/Src/main.c:406:6:SimulateKeyStrokes	24	static
+../Core/Src/main.c:422:6:PrintRecvBuf	16	static
+../Core/Src/main.c:432:6:InitKeyboardStatus	8	static
+../Core/Src/main.c:441:6:Convert2CapsMap	8	static
+../Core/Src/main.c:448:6:InterruptTrap	8	static
+../Core/Src/main.c:272:5:main	16	static
+../Core/Src/main.c:459:6:HAL_TIM_PeriodElapsedCallback	8	static
+../Core/Src/main.c:477:6:HAL_GPIO_EXTI_Callback	0	static
+../Core/Src/main.c:491:6:Error_Handler	0	static,ignoring_inline_asm

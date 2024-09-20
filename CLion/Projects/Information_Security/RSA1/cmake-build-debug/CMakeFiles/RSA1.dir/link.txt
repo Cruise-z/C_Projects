@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RSA1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\RSA1.dir/objects.a @CMakeFiles\RSA1.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--stack,100000000 -Wl,--whole-archive CMakeFiles\RSA1.dir/objects.a -Wl,--no-whole-archive -o RSA1.exe -Wl,--out-implib,libRSA1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RSA1.dir\linklibs.rsp

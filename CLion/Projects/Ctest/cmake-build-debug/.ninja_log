@@ -1,0 +1,11 @@
+# ninja log v5
+1	92	7312253368741449	CMakeFiles/Ctest.dir/main.c.obj	ee6c87f2662dfe6b
+94	254	7312253370340336	Ctest.exe	dffa59e062bc2b69
+2	98	7312254479997966	CMakeFiles/Ctest.dir/main.c.obj	ee6c87f2662dfe6b
+99	269	7312254481683584	Ctest.exe	dffa59e062bc2b69
+2	81	7312255540120684	CMakeFiles/Ctest.dir/main.c.obj	ee6c87f2662dfe6b
+82	245	7312255541720090	Ctest.exe	dffa59e062bc2b69
+3	83	7312257478437116	CMakeFiles/Ctest.dir/main.c.obj	ee6c87f2662dfe6b
+84	260	7312257480156134	Ctest.exe	dffa59e062bc2b69
+2	81	7312258299295599	CMakeFiles/Ctest.dir/main.c.obj	ee6c87f2662dfe6b
+82	248	7312258300903553	Ctest.exe	dffa59e062bc2b69

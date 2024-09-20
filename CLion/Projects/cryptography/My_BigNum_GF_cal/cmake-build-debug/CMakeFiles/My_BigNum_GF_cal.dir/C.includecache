@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/E_drive/clion/Project List/cryptography/My_BigNum_GF_cal/library.c
+library.h
+E:/E_drive/clion/Project List/cryptography/My_BigNum_GF_cal/library.h
+stdio.h
+-
+gmp.h
+-
+time.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+assert.h
+-
+math.h
+-
+
+E:/E_drive/clion/Project List/cryptography/My_BigNum_GF_cal/library.h
+gmp.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/clion/Project List/Information_Security/SM_National_Security_Algorithm/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+

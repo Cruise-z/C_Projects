@@ -1,0 +1,3 @@
+C:/Data/Work/JetBrains/CLion/Projects/C++/TicketMachine/cmake-build-debug/CMakeFiles/TicketMachine.dir
+C:/Data/Work/JetBrains/CLion/Projects/C++/TicketMachine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Data/Work/JetBrains/CLion/Projects/C++/TicketMachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

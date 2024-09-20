@@ -1,0 +1,3 @@
+"D:\E_disk\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Exp09--SHA1_Standard_test.dir/objects.a
+D:\Compile_Environments\msys64\mingw64\bin\ar.exe qc CMakeFiles\Exp09--SHA1_Standard_test.dir/objects.a @CMakeFiles\Exp09--SHA1_Standard_test.dir\objects1.rsp
+D:\Compile_Environments\msys64\mingw64\bin\cc.exe -g -Wl,--stack,100000000 -Wl,--whole-archive CMakeFiles\Exp09--SHA1_Standard_test.dir/objects.a -Wl,--no-whole-archive -o Exp09--SHA1_Standard_test.exe -Wl,--out-implib,libExp09--SHA1_Standard_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exp09--SHA1_Standard_test.dir\linklibs.rsp

@@ -1,0 +1,21 @@
+# ninja log v5
+8	483	7310540964283232	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+1	487	7310540964293240	CMakeFiles/TicketMachine.dir/main.cpp.obj	c427e5f97aefb48c
+487	732	7310540966718612	TicketMachine.exe	78f5541ae6b3d24d
+4	298	7310545820652121	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+299	460	7310545822229624	TicketMachine.exe	78f5541ae6b3d24d
+7	619	7312561395375636	CMakeFiles/TicketMachine.dir/main.cpp.obj	c427e5f97aefb48c
+4	359	7312562200604654	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+360	560	7312562202589426	TicketMachine.exe	78f5541ae6b3d24d
+3	411	7322947731113303	CMakeFiles/TicketMachine.dir/main.cpp.obj	c427e5f97aefb48c
+22	414	7322947731143615	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+415	584	7322947732800079	TicketMachine.exe	78f5541ae6b3d24d
+3	266	7322947912367048	CMakeFiles/TicketMachine.dir/main.cpp.obj	c427e5f97aefb48c
+267	426	7322947913907626	TicketMachine.exe	78f5541ae6b3d24d
+3	273	7322948059315467	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+274	433	7322948060862823	TicketMachine.exe	78f5541ae6b3d24d
+3	302	7322948733154028	CMakeFiles/TicketMachine.dir/main.cpp.obj	c427e5f97aefb48c
+7	304	7322948733174036	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+304	454	7322948734645721	TicketMachine.exe	78f5541ae6b3d24d
+4	275	7322949100866218	CMakeFiles/TicketMachine.dir/TicketMachine.cpp.obj	d2c0d92268a8df7e
+276	434	7322949102430973	TicketMachine.exe	78f5541ae6b3d24d

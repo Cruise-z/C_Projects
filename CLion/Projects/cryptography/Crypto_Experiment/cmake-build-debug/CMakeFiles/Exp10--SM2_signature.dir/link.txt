@@ -1,0 +1,3 @@
+"D:\E_disk\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Exp10--SM2_signature.dir/objects.a
+D:\Compile_Environments\msys64\mingw64\bin\ar.exe qc CMakeFiles\Exp10--SM2_signature.dir/objects.a @CMakeFiles\Exp10--SM2_signature.dir\objects1.rsp
+D:\Compile_Environments\msys64\mingw64\bin\cc.exe -g -Wl,--stack,100000000 -Wl,--whole-archive CMakeFiles\Exp10--SM2_signature.dir/objects.a -Wl,--no-whole-archive -o Exp10--SM2_signature.exe -Wl,--out-implib,libExp10--SM2_signature.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exp10--SM2_signature.dir\linklibs.rsp

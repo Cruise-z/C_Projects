@@ -1,0 +1,7 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0...3.20)
+
+PROJECT(gear-lib)
+
+INCLUDE(build/cmake_env.inc)
+
+ADD_SUBDIRECTORY(gear-lib)

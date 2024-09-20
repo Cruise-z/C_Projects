@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RSA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RSA">
+				<Option output="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/RSA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
+					<Add directory="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 RSA"/>
+					<CompileFile command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RSA/fast">
+				<Option output="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/RSA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
+					<Add directory="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 RSA/fast"/>
+					<CompileFile command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Data/System/Compile_Environments/MSYS2/mingw64/bin/mingw32-make.exe -f &quot;C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/main.c">
+			<Option target="RSA"/>
+		</Unit>
+		<Unit filename="C:/Data/Work/JetBrains/CLion 2022.3/Projects/MIT/RSA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

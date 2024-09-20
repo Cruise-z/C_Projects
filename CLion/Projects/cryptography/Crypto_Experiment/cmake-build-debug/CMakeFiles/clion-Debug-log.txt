@@ -1,0 +1,71 @@
+"D:\E_disk\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\E_disk\CLion 2022.3\Projects\cryptography\Crypto_Experiment" -B "D:\E_disk\CLion 2022.3\Projects\cryptography\Crypto_Experiment\cmake-build-debug"
+-- The C compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/Compile_Environments/msys64/mingw64/bin/cc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+    -- src/Exp01--Eeatosthese.c will be compiled to bin/Exp01--Eeatosthese
+    -- src/Exp01--Fp.c will be compiled to bin/Exp01--Fp
+    -- src/Exp01--GF2_calculation.c will be compiled to bin/Exp01--GF2_calculation
+    -- src/Exp01--GF2_exEuclid.c will be compiled to bin/Exp01--GF2_exEuclid
+    -- src/Exp01--GF2_inversion.c will be compiled to bin/Exp01--GF2_inversion
+    -- src/Exp01--GF_Fp.c will be compiled to bin/Exp01--GF_Fp
+    -- src/Exp01--MillerRabbin.c will be compiled to bin/Exp01--MillerRabbin
+    -- src/Exp01--exEuclid.c will be compiled to bin/Exp01--exEuclid
+    -- src/Exp02--Affine_Cipher.c will be compiled to bin/Exp02--Affine_Cipher
+    -- src/Exp02--Attack_Additive_Cipher.c will be compiled to bin/Exp02--Attack_Additive_Cipher
+    -- src/Exp02--Attack_Hill_Cipher.c will be compiled to bin/Exp02--Attack_Hill_Cipher
+    -- src/Exp02--Fence_Cipher.c will be compiled to bin/Exp02--Fence_Cipher
+    -- src/Exp02--Hill_Cipher.c will be compiled to bin/Exp02--Hill_Cipher
+    -- src/Exp02--Matrix_Cipher.c will be compiled to bin/Exp02--Matrix_Cipher
+    -- src/Exp02--Mono_Sub_Cipher.c will be compiled to bin/Exp02--Mono_Sub_Cipher
+    -- src/Exp02--Vernam_Cipher.c will be compiled to bin/Exp02--Vernam_Cipher
+    -- src/Exp02--Vigenere_Cipher.c will be compiled to bin/Exp02--Vigenere_Cipher
+    -- src/Exp02--mpz_Affine_Cipher.c will be compiled to bin/Exp02--mpz_Affine_Cipher
+    -- src/Exp02--mpz_Hill_Cipher.c will be compiled to bin/Exp02--mpz_Hill_Cipher
+    -- src/Exp03--DES.c will be compiled to bin/Exp03--DES
+    -- src/Exp03--DES_plus.c will be compiled to bin/Exp03--DES_plus
+    -- src/Exp04--AES_Cipher.c will be compiled to bin/Exp04--AES_Cipher
+    -- src/Exp04--Attack_AES.c will be compiled to bin/Exp04--Attack_AES
+    -- src/Exp04--Attack_AES_Advance.c will be compiled to bin/Exp04--Attack_AES_Advance
+    -- src/Exp04--Struct_sbox.c will be compiled to bin/Exp04--Struct_sbox
+    -- src/Exp04--out_put_sbox.c will be compiled to bin/Exp04--out_put_sbox
+    -- src/Exp05--SM4_CBC.c will be compiled to bin/Exp05--SM4_CBC
+    -- src/Exp05--SM4_CTR.c will be compiled to bin/Exp05--SM4_CTR
+    -- src/Exp05--SM4_ECB.c will be compiled to bin/Exp05--SM4_ECB
+    -- src/Exp05--SM4_OFB.c will be compiled to bin/Exp05--SM4_OFB
+    -- src/Exp05--SM4_cipher.c will be compiled to bin/Exp05--SM4_cipher
+    -- src/Exp05--picture.c will be compiled to bin/Exp05--picture
+    -- src/Exp06--ANSI_X9.17.c will be compiled to bin/Exp06--ANSI_X9.17
+    -- src/Exp06--BBS.c will be compiled to bin/Exp06--BBS
+    -- src/Exp06--MT.c will be compiled to bin/Exp06--MT
+    -- src/Exp06--RC4.c will be compiled to bin/Exp06--RC4
+    -- src/Exp06--ZUC_key.c will be compiled to bin/Exp06--ZUC_key
+    -- src/Exp07--RSA.c will be compiled to bin/Exp07--RSA
+    -- src/Exp07--RSA_CM_Attack.c will be compiled to bin/Exp07--RSA_CM_Attack
+    -- src/Exp07--RSA_LEIB_Attack.c will be compiled to bin/Exp07--RSA_LEIB_Attack
+    -- src/Exp07--RSA_OAEP.c will be compiled to bin/Exp07--RSA_OAEP
+    -- src/Exp07--RSA_PkSk2pq_Attack.c will be compiled to bin/Exp07--RSA_PkSk2pq_Attack
+    -- src/Exp07--RSA_Wiener_Attack.c will be compiled to bin/Exp07--RSA_Wiener_Attack
+    -- src/Exp07--RSA_work.c will be compiled to bin/Exp07--RSA_work
+    -- src/Exp08--ECC_DH.c will be compiled to bin/Exp08--ECC_DH
+    -- src/Exp08--ECC_Fast_enc_dec.c will be compiled to bin/Exp08--ECC_Fast_enc_dec
+    -- src/Exp08--ECC_cal.c will be compiled to bin/Exp08--ECC_cal
+    -- src/Exp08--ECC_pk_code.c will be compiled to bin/Exp08--ECC_pk_code
+    -- src/Exp08--ECC_pk_enc_dec.c will be compiled to bin/Exp08--ECC_pk_enc_dec
+    -- src/Exp09--Bruce_Birthday2.c will be compiled to bin/Exp09--Bruce_Birthday2
+    -- src/Exp09--HMAC_SHA1.c will be compiled to bin/Exp09--HMAC_SHA1
+    -- src/Exp09--My_SHA1.c will be compiled to bin/Exp09--My_SHA1
+    -- src/Exp09--SHA1_Personal_test.c will be compiled to bin/Exp09--SHA1_Personal_test
+    -- src/Exp09--SHA1_Standard_test.c will be compiled to bin/Exp09--SHA1_Standard_test
+    -- src/Exp09--SM3.c will be compiled to bin/Exp09--SM3
+    -- src/Exp10--ElGamal.c will be compiled to bin/Exp10--ElGamal
+    -- src/Exp10--SM2_signature.c will be compiled to bin/Exp10--SM2_signature
+    -- src/Exp10--Schnorr.c will be compiled to bin/Exp10--Schnorr
+    -- src/Exp11--main.c will be compiled to bin/Exp11--main
+    -- src/Exp11--test.c will be compiled to bin/Exp11--test
+    -- src/Crypto_Experiment--test.c will be compiled to bin/Crypto_Experiment--test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/E_disk/CLion 2022.3/Projects/cryptography/Crypto_Experiment/cmake-build-debug

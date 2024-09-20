@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/E_drive/clion/Project List/Information_Security/Polynomical_Division/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+stdbool.h
+-
+

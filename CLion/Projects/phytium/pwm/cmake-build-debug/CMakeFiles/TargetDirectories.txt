@@ -1,0 +1,3 @@
+C:/Data/Work/JetBrains/CLion/Projects/phytium/pwm/cmake-build-debug/CMakeFiles/pwm.dir
+C:/Data/Work/JetBrains/CLion/Projects/phytium/pwm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Data/Work/JetBrains/CLion/Projects/phytium/pwm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
